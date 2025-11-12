@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags:
   - Platform
   - Enemy
@@ -14,6 +14,7 @@ TagManager:
   - Trigger
   - Switch
   - HUD
+  - Key
   layers:
   - Default
   - TransparentFX
@@ -51,6 +52,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: ddddddddd
+    uniqueID: 1438162775
+    locked: 0
   - name: Backgournd
     uniqueID: 160031007
     locked: 0
@@ -81,3 +85,5 @@ TagManager:
   - name: HUD
     uniqueID: 2293902781
     locked: 0
+  m_RenderingLayers:
+  - Default
